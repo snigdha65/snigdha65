@@ -1,5 +1,4 @@
-#### Hi, I'm Snigdha
-######Hi there 👋, I'm Snigdha
+##### Hi, I'm Snigdha
 #### Junior Frontend Developer
 🚀 Junior Frontend Dev | Future MERN Stack Enthusiast
 
