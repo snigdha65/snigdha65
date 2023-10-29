@@ -1,10 +1,6 @@
 # Hi, I'm Snigdha
-## Junior Frontend Developer
-
-
+##Junior Frontend Developer
 ###👨‍💻 Passionate about creating captivating web interfaces. Aspiring MERN stack developer, eager to explore MongoDB, Express.js, React, and Node.js. Let's shape the digital world, one project at a time!
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
